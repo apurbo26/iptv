@@ -90,3 +90,34 @@ http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 #EXTINF:0,zee bangla
 http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
+#EXTM3U
+#EXTINF:0,gazi tv
+http://tv.ebox.live/live/gazi8.m3u8
+#EXTINF:0,willow hd
+http://tv.ebox.live/live/willo_hd.m3u8
+#EXTINF:0,sony six
+http://tv.ebox.live/live/sony_six.m3u8
+#EXTINF:0,bean sports 12
+http://tv.ebox.live/live/bein12_hd.m3u8
+#EXTINF:0,sky football
+http://tv.ebox.live/live/sky_football.m3u8
+#EXTINF:0,ekattor hd 2
+http://tv.ebox.live/live/ekattor1.m3u8
+#EXTINF:0,diptto
+http://tv.ebox.live/live/deepto.m3u8
+#EXTINF:0,rtv bangla
+http://tv.ebox.live/live/rtv.m3u8
+#EXTINF:0,masranga
+http://tv.ebox.live/live/natgeowild.m3u8
+#EXTINF:0,mtunes
+http://tv.ebox.live/live/mtv-in.m3u8
+#EXTINF:0,and picture hd
+http://tv.ebox.live/live/picture.m3u8
+#EXTINF:0,sony max
+http://tv.ebox.live/live/smax.m3u8
+#EXTINF:0,hbo hd
+http://tv.ebox.live/live/zeecafe1.m3u8
+#EXTINF:0,zee cinema hd
+http://tv.ebox.live/live/zeecinema1.m3u8
+#EXTINF:0,sony tv
+http://tv.ebox.live/live/sony.m3u8
