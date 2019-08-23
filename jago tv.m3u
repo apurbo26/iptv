@@ -104,7 +104,7 @@ http://tv.ebox.live/live/sky_football.m3u8
 #EXTINF:0,ekattor hd 2
 http://tv.ebox.live/live/ekattor1.m3u8
 #EXTINF:0,diptto
-http://tv.ebox.live/live/deepto.m3u8
+http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/playlist.m3u8
 #EXTINF:0,rtv bangla
 http://tv.ebox.live/live/rtv.m3u8
 #EXTINF:0,masranga
