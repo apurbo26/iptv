@@ -90,9 +90,3 @@ http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 #EXTINF:0,zee bangla
 http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
-#EXTM3U
-#EXTINF:0,9xm
-http://z5ams.akamaized.net
-#EXTINF:0,/9xm/index.m3u8?hdnts=st=1566557861~exp=1566560861~acl=/*~hmac=e5cad57bb06e82f577526f11e98e18da5eb8b31718937c6e499add5581595d4e
-discovery
-#EXTINF:0,http://185.149.89.37:7071/bangla2019/discoverybangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDE5IDExOjM4OjQ1IEFNJmhhc2hfdmFsdWU9eC9CYStEL1FKU01QZDRyWnVZUzhVUT09JnZhbGlkbWludXRlcz0y
