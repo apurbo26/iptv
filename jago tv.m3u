@@ -118,6 +118,6 @@ http://tv.ebox.live/live/smax.m3u8
 #EXTINF:0,hbo hd
 http://tv.ebox.live/live/zeecafe1.m3u8
 #EXTINF:0,zee cinema hd
-http://tv.ebox.live/live/zeecinema1.m3u8
+http://103.77.252.58:8081//live/ZeeCinema/chunks.m3u8
 #EXTINF:0,sony tv
 http://tv.ebox.live/live/sony.m3u8
