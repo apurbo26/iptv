@@ -92,9 +92,9 @@ http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
 #EXTM3U
 #EXTINF:0,gazi tv
-http://tv.ebox.live/live/gazi8.m3u8
+http://103.205.133.19/hls/gtv.m3u8?token=9wbxqJWJorUDS9__2_Ap9A&expires=1566610486&shouldbe=
 #EXTINF:0,willow hd
-http://tv.ebox.live/live/willo_hd.m3u8
+http://103.77.252.58:8081/live/willow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE5IDE6MjU6NTggQU0maGFzaF92YWx1ZT12eVlhUlJja3hZMWU2cmwrTjF6MEhBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:0,sony six
 http://tv.ebox.live/live/sony_six.m3u8
 #EXTINF:0,bean sports 12
@@ -108,7 +108,7 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/playlist.m3u8
 #EXTINF:0,rtv bangla
 http://tv.ebox.live/live/rtv.m3u8
 #EXTINF:0,masranga
-http://tv.ebox.live/live/natgeowild.m3u8
+http://103.205.133.19/hls/maasranga.m3u8?token=N9g1HAws7u9pezDjMpsPaQ&expires=1566610093&shouldbe=
 #EXTINF:0,mtunes
 http://tv.ebox.live/live/mtv-in.m3u8
 #EXTINF:0,and picture hd
