@@ -92,7 +92,7 @@ http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
 #EXTM3U
 #EXTINF:0,gazi tv
-http://103.205.133.19/hls/gtv.m3u8?token=9wbxqJWJorUDS9__2_Ap9A&expires=1566610486&shouldbe=
+Http://cdn.bd-cast.net:31935/origin/109.169.56.170/hls/gtv.m3u8?st=T3sVbDA4x-B0qyboVfuSHg&e=1566664200
 #EXTINF:0,willow hd
 http://tv.b4ucast.me/tv/Ph9QLvRSRN20190525/chunklist_w1390964324_tkaGxzZW5kdGltZT0xNTY2NjY0MTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eURua1ZCUWFhS0s2eUNDTm9NLXN4Wkg1QlFfVzhsVlduMVNUMXdfYjNwTT0=.m3u8
 #EXTINF:0,diptto
