@@ -120,4 +120,4 @@ http://tv.ebox.live/live/zeecafe1.m3u8
 #EXTINF:0,zee cinema hd
 http://tv.ebox.live/live/zeecinema1.m3u8
 #EXTINF:0,discovery
-http://tv.rangdhanu.live:8080/Discovery/tracks-v1a1/mono.m3u8?token=ff5b7ea9d3bdc61568e8e255d854cd431c77237f-ea5f4e50af4aa98ff8df518884b92103-1566637003-1566626203
+tv.rangdhanu.live:8080/Discovery/tracks-v1a1/mono.m3u8?token=ff5b7ea9d3bdc61568e8e255d854cd431c77237f-ea5f4e50af4aa98ff8df518884b92103-1566637003-1566626203
