@@ -97,3 +97,5 @@ Http://cdn.bd-cast.net:31935/origin/109.169.56.170/hls/gtv.m3u8?st=2V3DJdKOCz1NC
 http://tv.b4ucast.me/tv/Ph9QLvRSRN20190525/chunklist_w1390964324_tkaGxzZW5kdGltZT0xNTY2NjY0MTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eURua1ZCUWFhS0s2eUNDTm9NLXN4Wkg1QlFfVzhsVlduMVNUMXdfYjNwTT0=.m3u8
 #EXTINF:0,diptto
 http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/playlist.m3u8
+#EXTINF:0,Sky cricket
+http://tv.b4ucast.me/tv/KKR1JfldJS20180323/chunklist_w1031153115_tkaGxzZW5kdGltZT0xNTY2NjY0MzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WjFuODVCZXgwajdzZmk5bmE3NTd0d2JicGltZ08wMmxQcUxqLU0wYVgxRT0=.m3u8
