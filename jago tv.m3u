@@ -91,8 +91,8 @@ http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 #EXTINF:0,zee bangla
 http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
 #EXTM3U
-#EXTINF:0,gazi tv
-zer0live.ddns.net:13292/vesta/starjhalsamovies/playlist.m3u8?nimblesessionid=100440805&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6MDQ6MzcgUE0maGFzaF92YWx1ZT1KYmMrbHE5YmFLR1V1aVFWdGpzRDJRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,jalsja movies
+http://zer0live.ddns.net:13292/vesta/starjhalsamovies/playlist.m3u8?nimblesessionid=100440805&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6MDQ6MzcgUE0maGFzaF92YWx1ZT1KYmMrbHE5YmFLR1V1aVFWdGpzRDJRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,diptto
 http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/playlist.m3u8
 #EXTM3U
