@@ -93,8 +93,8 @@ http://tv.mirpurnetbd.com:8081/1/2/playlist.m3u8
 #EXTM3U
 #EXTINF:0,jalsja movies
 http://zer0live.ddns.net:13292/vesta/starjhalsamovies/playlist.m3u8?nimblesessionid=100440805&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6MDQ6MzcgUE0maGFzaF92YWx1ZT1KYmMrbHE5YmFLR1V1aVFWdGpzRDJRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,diptto
-http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/playlist.m3u8
+#EXTINF:0,diptto tv
+http://185.149.89.37:7071/bangla2019/deeptotv/playlist.m3u8?nimblesessionid=1387485&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6NDA6NDQgUE0maGFzaF92YWx1ZT11R0grUEhpTTQ2eW4yWTBreFNWMXBBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTM3U
 #EXTINF:0,Sky net sports 1
 http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
