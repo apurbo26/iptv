@@ -108,3 +108,5 @@ http://130.185.150.79:1935/trunk/DISCOVERY/playlist.m3u8
 http://185.149.89.37:7071/bangla2019/sonyaath/playlist.m3u8?nimblesessionid=1386418&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6MjA6NTIgUE0maGFzaF92YWx1ZT1SZll3cHRIVFVnYzRraDZsZUc2N1dnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Gtv
 http://185.149.89.37:7071/bangla2019/gtv/playlist.m3u8?nimblesessionid=1387940&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6NDg6MDMgUE0maGFzaF92YWx1ZT1TRUFROER6M0hvR21Ed2JFMEkxVnh3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Rtv Bangladesh
+http://212.8.253.91:7892/anax/rtv/playlist.m3u8?nimblesessionid=27729026&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDQ6Mjg6MzYgUE0maGFzaF92YWx1ZT04M01heFJJK0JkYTB3SlhsaERKZUhRPT0mdmFsaWRtaW51dGVzPTI=
