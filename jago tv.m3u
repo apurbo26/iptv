@@ -109,5 +109,5 @@ http://185.149.89.37:7071/bangla2019/sonyaath/playlist.m3u8?nimblesessionid=1386
 #EXTINF:0,Gtv
 http://185.149.89.37:7071/bangla2019/gtv/playlist.m3u8?nimblesessionid=1387940&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6NDg6MDMgUE0maGFzaF92YWx1ZT1TRUFROER6M0hvR21Ed2JFMEkxVnh3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTM3U
-#EXTINF:0,Rtv Bangla
-http://212.8.253.91:7892/anax/rtv/playlist.m3u8?nimblesessionid=27729026&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDQ6Mjg6MzYgUE0maGFzaF92YWx1ZT04M01heFJJK0JkYTB3SlhsaERKZUhRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,nagorik
+http://27.147.156.14:1935/Nagorik_TV/Nagorik_TV.stream/playlist.m3u8
