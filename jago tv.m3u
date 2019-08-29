@@ -106,7 +106,7 @@ http://87.117.229.52:1935/nc3/SkyNetSports3/chunklist_w1132806481.m3u8
 http://130.185.150.79:1935/trunk/DISCOVERY/playlist.m3u8
 #EXTINF:0,Sony aath
 http://185.149.89.37:7071/bangla2019/sonyaath/playlist.m3u8?nimblesessionid=1386418&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDM6MjA6NTIgUE0maGFzaF92YWx1ZT1SZll3cHRIVFVnYzRraDZsZUc2N1dnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,rtv
+#EXTINF:0,ntv
 http://www.skybdlive.com/live/skyfeed1003/index.m3u8
 #EXTM3U
 #EXTINF:0,nagorik
