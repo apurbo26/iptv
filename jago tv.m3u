@@ -113,8 +113,10 @@ http://www.skybdlive.com/live/skyfeed1003/index.m3u8
 http://27.147.156.14:1935/Nagorik_TV/Nagorik_TV.stream/playlist.m3u8
 #EXTINF:0,sangit Bangla
 http://www.skybdlive.com/live/skyfeed1029/index.m3u8
+#EXTINF:0,Gazi tv
+http://103.214.156.2:8080/hls/1.m3u8
 #EXTINF:0,masrannga
-http://tv.mirpurnetbd.com:8081/1/7/playlist.m3u8
+http://103.214.156.2:8080/hls/2.m3u8
 #EXTINF:0,rtv
 http://www.skybdlive.com/live/skyfeed1004/index.m3u8
 #EXTINF:0,Colour bangla
