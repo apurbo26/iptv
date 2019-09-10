@@ -149,5 +149,5 @@ http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunklist_w1930003036.m3u8
 http://103.77.252.58:8081/live/sonyaath/chunks.m3u8
 #EXTINF:0,Sony max
 http://103.77.252.58:8081/live/sonymax/chunks.m3u8
-#EXTINF:0,zee bangla
+#EXTINF:0,zee chinema
 http://130.185.150.79:1935/trunk/ZEE-CINEMA/chunklist_w459751139.m3u8
