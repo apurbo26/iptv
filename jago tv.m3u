@@ -149,3 +149,5 @@ http://103.77.252.58:8081/live/sonyaath/chunks.m3u8
 http://103.77.252.58:8081/live/sonymax/chunks.m3u8
 #EXTINF:0,zee chinema
 http://130.185.150.79:1935/trunk/ZEE-CINEMA/chunklist_w459751139.m3u8
+#EXTINF:0,utv action
+http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/23956
