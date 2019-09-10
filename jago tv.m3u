@@ -134,7 +134,7 @@ http://103.77.252.58:8081/live/ten1/chunks.m3u8
 #EXTINF:0,Star sports select 1
 http://www.skybdlive.com/live/skyfeed1020/index.m3u8
 #EXTINF:0,Star Sports Select 2
-http://akamai.anytv.live/StarSportsSelect2HD/tracks-a2/mono.m3u8
+http://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,HBO hd
 http://103.77.252.58:8081/live/hbo/chunks.m3u8
 #EXTINF:0,And picture
