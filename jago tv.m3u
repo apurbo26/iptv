@@ -140,7 +140,7 @@ http://www.skybdlive.com/live/skyfeed1023/index.m3u8
 #EXTINF:0,HBO hd
 http://103.77.252.58:8081/live/hbo/chunks.m3u8
 #EXTINF:0,And picture
-http://103.77.252.58:8081/live/andpics/chunks.m3u8
+http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mohona
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunklist_w1176308328.m3u8
 #EXTINF:0,Chanel nine
