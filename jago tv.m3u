@@ -153,3 +153,5 @@ http://130.185.150.79:1935/trunk/ZEE-CINEMA/chunklist_w459751139.m3u8
 http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/23956
 #EXTINF:0,star sports 2
 http://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
+#EXTINF:0, willow cricket
+http://103.77.252.58:8081/live/willow/chunks.m3u8
