@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,gtv test
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1568400679/ei/xpB7XbS1O9G63LUP_J-_uAU/ip/103.85.232.178/id/RVV1EIVa5GA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAJZaIaHJdi46W23sx5zX8GW9oo2JKsLEzbg76jMDrK5XAiEAmlZ2-FK5muzBeE1hELDbHpyjpcis8iKnK7tvocKF7rI%3D/file/index.m3u8
+http://manifest.googlevideo.com/api/manifest/hls_variant/expire/1568400679/ei/xpB7XbS1O9G63LUP_J-_uAU/ip/103.85.232.178/id/RVV1EIVa5GA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAJZaIaHJdi46W23sx5zX8GW9oo2JKsLEzbg76jMDrK5XAiEAmlZ2-FK5muzBeE1hELDbHpyjpcis8iKnK7tvocKF7rI%3D/file/index.m3u8
 #EXTINF:0,bangala vision
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0,chanel i
