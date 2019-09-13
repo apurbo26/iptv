@@ -90,7 +90,7 @@ http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
 http://103.77.252.58:8081/live/zeebangla/chunks.m3u8
 #EXTM3U
 #EXTINF:0,jalsja movies
-http://www.skybdlive.com/live/skyfeed1012/index.m3u8
+http://173.82.170.226:8080/live/JALSHA-MOVIES/CH214771/268f5b1028834a7742da9fbfd594e6e07ed024342302a18bd4d0ca1a8b134c28/JALSHA-MOVIES_2_playlist.m3u8
 #EXTINF:0,diptto tv
 http://www.skybdlive.com/live/skyfeed1005/index.m3u8
 #EXTM3U
