@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,Brazil vs peru
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:0,bangala vision
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0,chanel i
@@ -157,3 +155,7 @@ http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/23956
 http://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, willow cricket
 http://103.77.252.58:8081/live/willow/chunks.m3u8
+#EXTINF:0,starsports 1
+http://www.skybdlive.com/live/skyfeed1018/index.m3u8
+#EXTINF:0,Bean sports 1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
