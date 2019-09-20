@@ -121,8 +121,8 @@ http://103.214.156.2:8080/hls/2.m3u8
 http://103.77.252.58:8081/live/rtv/chunks.m3u8
 #EXTINF:0,Colour bangla
 http://www.skybdlive.com/live/skyfeed1011/index.m3u8
-#EXTINF:0,Zee Bangla Cinema
-http://www.skybdlive.com/live/skyfeed1024/index.m3u8
+#EXTINF:0,khusboo bangla
+http://31.3.242.186:1935/probashi/khushbu/playlist.m3u8
 #EXTINF:0,Sony ten 2
 http://103.77.252.58:8081/live/ten2/chunks.m3u8
 #EXTINF:0,Sony six
