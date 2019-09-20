@@ -158,6 +158,6 @@ http://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, willow cricket
 http://103.77.252.58:8081/live/willow/chunks.m3u8
 #EXTINF:0,starsports 1
-http://www.skybdlive.com/live/skyfeed1018/index.m3u8
+http://akamai.anytv.live/stsp1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bean sports 1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
