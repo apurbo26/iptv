@@ -101,7 +101,7 @@ http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
 #EXTINF:0,Nick
 http://www.skybdlive.com/live/skyfeed1025/index.m3u8
 #EXTINF:0,duronto tv
-http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+http://130.185.150.79:1935/trunk/Duronto-TV/playlist.m3u8
 #EXTINF:0,Sky net sports 3
 http://87.117.229.52:1935/nc3/SkyNetSports3/chunklist_w1132806481.m3u8
 #EXTINF:0,Discovery
