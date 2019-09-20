@@ -107,7 +107,7 @@ http://87.117.229.52:1935/nc3/SkyNetSports3/chunklist_w1132806481.m3u8
 #EXTINF:0,Discovery
 http://130.185.150.79:1935/trunk/DISCOVERY/playlist.m3u8
 #EXTINF:0,ntv
-http://www.skybdlive.com/live/skyfeed1003/index.m3u8
+http://103.77.252.58:8081/live/ntv/chunks.m3u8
 #EXTM3U
 #EXTINF:0,nagorik
 http://27.147.156.14:1935/Nagorik_TV/Nagorik_TV.stream/playlist.m3u8
