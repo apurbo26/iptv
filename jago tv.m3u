@@ -92,7 +92,7 @@ http://103.77.252.58:8081/live/zeebangla/chunks.m3u8
 #EXTINF:0,jalsja
 http://s2.bdiptv.live:8081/atv/jalshamovies/chunks.m3u8?nimblesessionid=158618&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE5IDQ6MTM6MDggUE0maGFzaF92YWx1ZT1SVCtVajF0alN0U2ovZ01qNlFSUUN3PT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:0,diptto tv
-http://www.skybdlive.com/live/skyfeed1005/index.m3u8
+http://103.77.252.58:8081/live/deepto/chunks.m3u8
 #EXTM3U
 #EXTINF:0,Sky net sports 1
 http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
