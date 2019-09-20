@@ -128,7 +128,7 @@ http://103.77.252.58:8081/live/ten2/chunks.m3u8
 #EXTINF:0,Sony six
 http://103.77.252.58:8081/live/sonysix/chunks.m3u8
 #EXTINF:0,Sony espn
-http://www.skybdlive.com/live/skyfeed1016/index.m3u8
+http://130.185.150.79:1935/trunk/SONY-ESPN/chunklist_w1027087524.m3u8
 #EXTINF:0,Sony ten 3
 http://103.77.252.58:8081/live/ten3/chunks.m3u8
 #EXTINF:0,Sony ten1
