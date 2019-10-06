@@ -161,3 +161,5 @@ http://103.77.252.58:8081/live/willow/chunks.m3u8
 http://akamai.anytv.live/stsp1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bean sports 1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:0,live football
+http://cdn.60fps.live/live/yp1/chunks.m3u8
