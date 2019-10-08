@@ -114,7 +114,7 @@ http://27.147.156.14:1935/Nagorik_TV/Nagorik_TV.stream/playlist.m3u8
 #EXTINF:0,sangit Bangla
 http://27.147.156.14:1935/Sangeet-Bangla/Sangeet-Bangla.stream/chunklist_w787109120.m3u8
 #EXTINF:0,Gazi tv
-http://103.214.156.2:8080/hls/1.m3u8
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:0,masrannga
 http://103.214.156.2:8080/hls/2.m3u8
 #EXTINF:0,rtv
