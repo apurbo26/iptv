@@ -94,7 +94,7 @@ http://103.77.252.58:8081/live/zeebangla/chunks.m3u8
 #EXTINF:0,Bflix
 http://130.185.150.79:1935/trunk/Bflix-Movies/chunklist_w1828620901.m3u8
 #EXTINF:0,diptto tv
-http://103.77.252.58:8081/live/deepto/chunks.m3u8
+http://www.skybdlive.com/live/skyfeed1005/index.m3u8
 #EXTM3U
 #EXTINF:0,Sky net sports 1
 http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
