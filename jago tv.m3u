@@ -161,8 +161,8 @@ http://103.77.252.58:8081/live/willow/chunks.m3u8
 http://akamai.anytv.live/stsp1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bean sports 1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:0,live football
-http://cdn.60fps.live/live/yp1/chunks.m3u8
+#EXTINF:0,b4u misic
+http://27.147.156.14:1935/B4U-Music/B4U-Music.stream/chunklist_w1610588926.m3u8
 #EXTINF:0,b4u movies
 http://27.147.156.14:1935/B4U-Movies/B4U-Movies.stream/chunklist_w1303483608.m3u8
 #EXTINF:0,d sports
