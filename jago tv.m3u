@@ -144,7 +144,7 @@ http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mohona
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunklist_w1176308328.m3u8
 #EXTINF:0,Chanel nine
-http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunklist_w1930003036.m3u8
+http://27.147.156.14:1935/Channel-9/Channel-9.stream/playlist.m3u8
 #EXTINF:0,Sony aath
 http://103.77.252.58:8081/live/sonyaath/chunks.m3u8
 #EXTINF:0,Sony max
