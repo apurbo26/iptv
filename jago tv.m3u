@@ -148,7 +148,7 @@ http://27.147.156.14:1935/Channel-9/Channel-9.stream/playlist.m3u8
 #EXTINF:0,Sony aath
 http://103.77.252.58:8081/live/sonyaath/chunks.m3u8
 #EXTINF:0,Sony max
-http://103.77.252.58:8081/live/sonymax/chunks.m3u8
+http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 #EXTINF:0,zee chinema
 http:akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,utv action
