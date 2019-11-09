@@ -92,7 +92,7 @@ http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 http://fr-c.movply.stream/hls/Zee_Bangla.m3u8
 #EXTM3U
 #EXTINF:0,Jalshamovies
-http://www.skybdlive.com/live/skyfeed1012/index.m3u8
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:0,diptto tv
 http://www.skybdlive.com/live/skyfeed1005/index.m3u8
 #EXTM3U
