@@ -97,13 +97,13 @@ http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 http://www.skybdlive.com/live/skyfeed1005/index.m3u8
 #EXTM3U
 #EXTINF:0,Sky net sports 1
-http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:0,Nick
 http://130.185.150.79:1935/trunk/NICK/playlist.m3u8
 #EXTINF:0,duronto tv
 http://130.185.150.79:1935/trunk/Duronto-TV/playlist.m3u8
 #EXTINF:0,Sky net sports 3
-http://87.117.229.52:1935/nc3/SkyNetSports3/chunklist_w1132806481.m3u8
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:0,Discovery
 http://130.185.150.79:1935/trunk/DISCOVERY/playlist.m3u8
 #EXTINF:0,ntv
@@ -124,15 +124,15 @@ http://103.121.36.238:8081/live/colorsbangla-59/playlist.m3u8
 #EXTINF:0,khusboo bangla
 http://31.3.242.186:1935/probashi/khushbu/playlist.m3u8
 #EXTINF:0,Sony ten 2
-http://www.skybdlive.com/live/skyfeed1014/index.m3u8
+http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
 #EXTINF:0,Sony six
-http://www.skybdlive.com/live/skyfeed1015/index.m3u8
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:0,Sony espn
 http://130.185.150.79:1935/trunk/SONY-ESPN/chunklist_w1027087524.m3u8
 #EXTINF:0,Sony ten 3
 http://www.skybdlive.com/live/skyfeed1017/index.m3u8
 #EXTINF:0,Sony ten1
-http://www.skybdlive.com/live/skyfeed1019/index.m3u8
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:0,Star sports select 1
 http://akamai.anytv.live/StarSportsSelect1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Sports Select 2
