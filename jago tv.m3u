@@ -109,13 +109,13 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w1386476531
 #EXTINF:0,Sky net sports 1
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:0,Nick
-http://130.185.150.79:1935/trunk/NICK/playlist.m3u8
+http//103.121.36.238:8081/live/nike-50/playlist.m3u8
 #EXTINF:0,duronto tv
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/chunklist_w1040409972.m3u8
 #EXTINF:0,Sky net sports 3
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
-#EXTINF:0,Discovery
-http://130.185.150.79:1935/trunk/DISCOVERY/playlist.m3u8
+#EXTINF:0,Animal planet
+http://103.121.36.238:8081/live/animalplanet-13/playlist.m3u8
 #EXTINF:0,ntv
 http://27.147.156.14:1935/N-TV/N-TV.stream/playlist.m3u8
 #EXTM3U
@@ -126,21 +126,21 @@ http://27.147.156.14:1935/Sangeet-Bangla/Sangeet-Bangla.stream/chunklist_w590630
 #EXTINF:0,Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:0,masrannga
-http://103.214.156.2:8080/hls/2.m3u8
+http://103.121.36.238:8081/live/maasranga/playlist.m3u8
 #EXTINF:0,rtv
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunklist_w1995384324.m3u8
 #EXTINF:0,Colour bangla
 http://103.121.36.238:8081/live/colorsbangla-59/playlist.m3u8
-#EXTINF:0,khusboo bangla
-http://31.3.242.186:1935/probashi/khushbu/playlist.m3u8
+#EXTINF:0,bangla talk
+http://27.147.156.14:1935/BanglaTalk/banglatalk.stream/playlist.m3u8
 #EXTINF:0,Sony ten 2
 http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
 #EXTINF:0,Sony six
 http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:0,Sony espn
-http://130.185.150.79:1935/trunk/SONY-ESPN/chunklist_w1027087524.m3u8
+http://103.121.36.238:8081/live/espnhd/playlist.m3u8
 #EXTINF:0,Sony ten 3
-http://www.skybdlive.com/live/skyfeed1017/index.m3u8
+http://163.172.29.246:8081/globe/ten3/chunks.m3u8
 #EXTINF:0,Sony ten1
 http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:0,Star sports select 1
@@ -154,15 +154,15 @@ http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mohona
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunklist_w1176308328.m3u8
 #EXTINF:0,Chanel nine
-http://27.147.156.14:1935/Channel-9/Channel-9.stream/playlist.m3u8
+http://163.172.29.246:8081/globe/channel9/chunks.m3u8
 #EXTINF:0,Sony aath
 http://fr-c.movply.stream/hls/Zee_Chinaman.m3u8
 #EXTINF:0,Sony max
 http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 #EXTINF:0,zee chinema
-http:akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,utv action
-http://www.pandar.tv:25461/020214239178/nlMOzO7ualvEPsy/23956
+http://103.121.36.238:8081/live/zeecinema-34/playlist.m3u8
+#EXTINF:0,zee bangla chinema
+http://103.121.36.238:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:0,star sports 2
 http://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:0, willow cricket
@@ -171,6 +171,8 @@ http://103.77.252.58:8081/live/willow/chunks.m3u8
 http://akamai.anytv.live/stsp1hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bean sports 1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:0,Masti
+http://103.121.36.238:8081/live/mastimusic-65/playlist.m3u8
 #EXTINF:0,b4u misic
 http://27.147.156.14:1935/B4U-Music/B4U-Music.stream/chunklist_w1610588926.m3u8
 #EXTINF:0,b4u movies
