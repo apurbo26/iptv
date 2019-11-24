@@ -86,6 +86,16 @@ http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 #EXTINF:0,green chili
 http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greenchilltv.stream/playlist.m3u8
 #EXTM3U
+#EXTINF:0,Saudi sunna
+http://27.147.156.14:1935/Saudi-Sunnah/Saudi-Sunnah.stream/chunklist_w244771932.m3u8
+#EXTINF:0,Soudi Quran
+http://27.147.156.14:1935/Saudi-Quran/Saudi-Quran.stream/chunklist_w2124585700.m3u8
+#EXTINF:0,Dhoom music
+http://27.147.156.14:1935/Dhoom-Music/Dhoom-Music.stream/chunklist_w1428040322.m3u8
+#EXTINF:0,Akash aath
+http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/chunklist_w1077442221.m3u8
+#EXTINF:0,Etv
+http://27.147.156.14:1935/EkusheyTV/EkusheyTV.stream/chunklist_w1252172628.m3u8
 #EXTINF:0,star jalaha
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #EXTINF:0,zee bangla
