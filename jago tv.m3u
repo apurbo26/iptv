@@ -108,7 +108,7 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w1386476531
 #EXTM3U
 #EXTINF:0,Sky net sports 1
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
-#EXTINF:0,Nick
+#EXTINF:0,Bick
 http//103.121.36.238:8081/live/nike-50/playlist.m3u8
 #EXTINF:0,duronto tv
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/chunklist_w1040409972.m3u8
