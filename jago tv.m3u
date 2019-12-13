@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,bpl live
+http://103.102.27.172:8080/hls/stream.m3u8
 #EXTINF:0,bangala vision
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0,chanel i
