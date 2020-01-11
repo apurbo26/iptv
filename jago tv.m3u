@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,bpl
+http://tv.ebox.live//live/mass.m3u8
 #EXTINF:0,bpl live
 http://103.102.27.172:8080/hls/stream.m3u8
 #EXTINF:0,bangala vision
