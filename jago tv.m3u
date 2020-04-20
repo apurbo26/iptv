@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,jamuna tv
-http://tv.ebox.live/live/ex-jamuna.m3u8
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:0,gazi
 http://tv.ebox.live/live/gazi-tv.m3u8
 #EXTINF:0,bangla vision
