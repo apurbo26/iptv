@@ -1,0 +1,4 @@
+#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="1" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1706521871:KeyName=prod_linear:Signature=yAaYb-txSzqSrGBOTGQhmAYSUzhdauqahVkFHjPYY-XqclBPaelGa9HBR1uDNC_N4B4PL-59Vv5mj1Pkbdr5BA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
