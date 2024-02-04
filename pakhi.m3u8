@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",1. 9X Jalwa
-https://mhdtv.co.in
+'https://mhdtv.co.in/jio/stream.php?id=440&e=.m3u8&type=aosm3u|Referer: https://mhdtv.co.in
 #EXTINF:-1 tvg-logo="" group-title="Bangla",2. Jalsha movies
 https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=23bff287b2d9&e=.m3u8&type=aosm3u
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",3. Colours infinity
