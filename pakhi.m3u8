@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",1. 9X Jalwa
-https://mhdtv.co.in/jio/stream.php?id=440&e=.m3u8&type=aosm3u|Referer: https://mhdtv.co.in
+https://mhdtv.co.in
 #EXTINF:-1 tvg-logo="" group-title="Bangla",2. Jalsha movies
 https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=23bff287b2d9&e=.m3u8&type=aosm3u
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",3. Colours infinity
@@ -9,3 +9,5 @@ https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=083e566383b1&e=.m3u8&typ
 https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=88e557a35fef&e=.m3u8&type=aosm3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEQzj7FnEV4Z3dert5uyrWKWElJLlggpJDQ&usqp=CAU" group-title="Sports live",5. Bpl live auto
 https://friendshiplive2023.xyz/bdsports/tsports.php?url=https://live-cdn.tsports.com/live-02/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wblvtoHFXpBoat-oNukycB5auBa45inSwiyghE8gac3MN_ridYgeY1kHRKCkBrb1slgpIlO6Vw=s900-c-k-c0x00ffffff-no-rj" group-title="**HINDI MOVIES**",6. Goldmines
+https://friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=152
