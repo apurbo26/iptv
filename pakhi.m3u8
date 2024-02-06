@@ -12,7 +12,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055632323.png" group-title="SPORTS LIVE EVENT",ILT20 2024 Live (Auto)
 https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",1. 9X Jalwa
-https://mhdtv.co.in/jio/stream.php?id=442&e=.m3u8&type=aosm3u|Referer:https://mhdtv.co.in
+https://mhdtv.co.in/jio/stream.php?id=440
+&e=.m3u8&type=aosm3u|Referer:https://mhdtv.co.in
 #EXTINF:-1 tvg-logo="" group-title="Bangla",2. Jalsha movies
 https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=23bff287b2d9&e=.m3u8&type=aosm3u
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",3. Colours infinity
