@@ -1,5 +1,16 @@
-
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594961.png" group-title="SPORTS LIVE EVENT",BPL LIVE BDIX
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594961.png" group-title="SPORTS LIVE EVENT",BPL LIVE TSP AUTO
+https://friendshiplive2023.xyz/bdsports/tsports.php?url=https://live-cdn.tsports.com/live-02/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594961.png" group-title="SPORTS LIVE EVENT",BPL LIVE RO AUTO
+https://friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/Blessbit-Youtube_93/Blessbit-Youtube_93/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/13b63e10-ad16-11ee-8c7d-dfff00fe4857/5990174/1041152128.png" group-title="SPORTS LIVE EVENT",SA T20 2024  Match 1 Live (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m2_030224/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/13b63e10-ad16-11ee-8c7d-dfff00fe4857/5990174/1041152128.png" group-title="SPORTS LIVE EVENT",SA T20 2024  Match 2 Live (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m2_030224/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055632323.png" group-title="SPORTS LIVE EVENT",ILT20 2024 Live (Auto)
+https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="@@@@TEST@@@@",1. 9X Jalwa
 https://mhdtv.co.in/jio/stream.php?id=442&e=.m3u8&type=aosm3u|Referer:https://mhdtv.co.in
 #EXTINF:-1 tvg-logo="" group-title="Bangla",2. Jalsha movies
