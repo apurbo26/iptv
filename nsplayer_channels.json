@@ -195,10 +195,5 @@
         "accept-encoding": "gzip"
       },
       "logo": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png"
-    },
-    {
-      "category_name": "Kids",
-      "name": "Discovery Kids",
-      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.c
+    }
+]
